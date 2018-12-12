@@ -41,4 +41,4 @@ Dump this file to a readable folder on your machine and configure the storage wi
         storages:
             google_cloud:
                 key_file_path: '/path/to/key.json'
-                bucket: 'sulu-bucket'
+                bucket_name: 'sulu-bucket'
